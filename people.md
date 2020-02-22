@@ -17,8 +17,6 @@ executive-board:
   - name: Flavio Finger
     img: /img/people/flavio-finger.jpg
     desc: Vice President. Epidemiologist & Outbreak Analyst at Epicentre, Paris, France
-    url: https://ffinger.github.io
-    website: https://ffinger.github.io
     github: https://github.com/ffinger
   - name: Thibaut Jombart
     img: /img/people/thibaut-jombart.jpg
