@@ -16,7 +16,7 @@ executive-board:
     github: https://github.com/annecori/
   - name: Flavio Finger
     img: /img/people/flavio-finger.jpg
-    desc: Vice President. Epidemiologist & Outbreak Analyst at Epicentre, Paris, France
+    desc: Vice President. Outbreak science and epidemiological analytics at Epicentre MSF, Paris, France.
     url: https://ffinger.github.io
     website: https://ffinger.github.io
     github: https://github.com/ffinger
